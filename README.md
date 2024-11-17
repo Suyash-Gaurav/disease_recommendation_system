@@ -31,7 +31,7 @@ This is a Python-based Disease Prediction and Recommendation System that uses ma
 1. Clone the repository to your local machine:
 
    ```bash
-   git clone https://github.com/yourusername/disease-prediction-system.git
+   git clone https://github.com/Suyash-Gaurav/disease_recommendation_system/tree/main
    ```
 
 2. Navigate to the project directory:
