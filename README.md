@@ -1,5 +1,5 @@
 
-```markdown
+
 # Disease Prediction and Recommendation System
 
 This is a Python-based Disease Prediction and Recommendation System that uses machine learning models to predict possible diseases based on user-selected symptoms. It also provides personalized recommendations for medications, precautions, workouts, and diet plans related to the predicted diseases.
@@ -26,7 +26,7 @@ This is a Python-based Disease Prediction and Recommendation System that uses ma
 - os
 - functools (for caching)
 
-### Installation
+## Installation
 
 1. Clone the repository to your local machine:
 
@@ -37,7 +37,7 @@ This is a Python-based Disease Prediction and Recommendation System that uses ma
 2. Navigate to the project directory:
 
    ```bash
-   cd disease-prediction-system
+   cd disease_recommendation_system
    ```
 
 3. Ensure that your project folder contains the following files:
