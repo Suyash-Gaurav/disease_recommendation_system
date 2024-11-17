@@ -155,4 +155,3 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ```
 
-This `README.md` file covers the essential information about the project, including how to install, use, and contribute to the repository. It also includes an example of how the system works, making it easier for users and contributors to understand and engage with the code.
