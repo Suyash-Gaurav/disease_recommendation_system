@@ -56,7 +56,7 @@ This is a Python-based Disease Prediction and Recommendation System that uses ma
 To run the system, execute the following in the terminal:
 
 ```bash
-python disease_prediction_system.py
+python run.py
 ```
 
 The system will prompt you to select symptoms from a list. You can select multiple symptoms by entering their corresponding numbers separated by commas. After selection, the system will predict the most likely diseases and display associated recommendations (medications, precautions, etc.).
